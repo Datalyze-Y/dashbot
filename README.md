@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img title="Redash" src='https://redash.io/assets/images/logo.png' width="200px"/>
 </p>
@@ -117,3 +118,6 @@ Please email security@redash.io to report any security vulnerabilities. We will 
 ## License
 
 BSD-2-Clause.
+=======
+# dashbot
+>>>>>>> e0e5cc250fd455f901d3cada1c0027d656e09c1f
